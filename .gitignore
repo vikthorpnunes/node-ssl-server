@@ -1,2 +1,5 @@
 # generated keys
 /cert
+
+# remove node_module
+/node_module
